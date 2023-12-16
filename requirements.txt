@@ -1,0 +1,4 @@
+bcrypt
+fastapi
+pydantic
+pyjwt
